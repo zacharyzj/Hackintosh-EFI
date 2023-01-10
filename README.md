@@ -12,6 +12,12 @@ USBTooleBox         1.1.1
 VirtualSMC          1.3.0
 WhateverGreen       1.6.3
 
+# hardware
+cpu:                5600x
+gpu:                nvidia 950
+motherboard:        msi b550m mortar wifi
+audio card:         ALC 1200
+
 # Tools
 ProperTree: https://github.com/corpnewt/ProperTree.git
 GenSMBIOS:  https://github.com/corpnewt/GenSMBIOS.git
