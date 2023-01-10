@@ -13,7 +13,7 @@ VirtualSMC          1.3.0
 WhateverGreen       1.6.3
 
 # hardware
-cpu:                5600x
+cpu:                AMD ryzen 5 17h 5600x
 gpu:                nvidia 950
 motherboard:        msi b550m mortar wifi
 audio card:         ALC 1200
